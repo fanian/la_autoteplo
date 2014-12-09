@@ -1870,3 +1870,6 @@ footer a:hover, footer a:active, footer a:focus { color: #be3c0a; text-decoratio
   header .header__img img, .header--bottom .header__img img { max-width: 100%; }
   .advantages__img { max-width: 100%; } }
 @media (max-width: 768px) { h1, h2 { font-size: 32px !important; } }
+@media (max-width: 480px) { .info__left img { max-width: 100%; }
+  .choose__img { max-width: 100%; }
+  .info__economy { left: 0; } }
